@@ -1,4 +1,4 @@
-# B.E-Pune-University-Latex-Templates
+# Latex Templates
 
 TO EDIT I RECOMMEND OVERLEAF
 
